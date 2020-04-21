@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:1:1-137:12
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:1:1-137:12
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:1:1-137:12
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:1:1-137:12
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:1:1-137:12
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:1:1-137:12
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:1:1-137:12
+	package
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:9:2-64
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:9:19-61
+application
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:10:5-135:19
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:13:9-40
+activity#hocanhvan.doan.nhatnghe.manghinhchao
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:17:13-28:20
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:19:13-56
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:20:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:26:27-74
+activity#hocanhvan.doan.nhatnghe.MainActivity
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:34:9-45:20
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:36:13-56
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:37:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:35:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:40:13-44:29
+category#android.intent.category.DEFAULT
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:43:27-73
+activity#hocanhvan.doan.nhatnghe.gioithieu
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:48:9-54:29
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:50:13-56
+	android:launchMode
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:53:13-44
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:51:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:49:13-38
+activity#hocanhvan.doan.nhatnghe.hocnghe
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:56:9-62:29
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:58:13-56
+	android:launchMode
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:61:13-44
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:59:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:57:13-36
+activity#hocanhvan.doan.nhatnghe.elearning
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:64:11-70:29
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:66:13-56
+	android:launchMode
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:69:13-44
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:67:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:65:13-38
+activity#hocanhvan.doan.nhatnghe.tacgia
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:72:11-78:29
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:74:13-56
+	android:launchMode
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:77:13-44
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:75:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:73:13-35
+activity#hocanhvan.doan.nhatnghe.xemvideo
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:80:11-86:29
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:82:13-56
+	android:launchMode
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:85:13-44
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:83:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:81:13-37
+activity#hocanhvan.doan.nhatnghe.playvideo
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:88:12-94:29
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:90:13-56
+	android:launchMode
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:93:13-44
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:91:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:89:13-38
+activity#hocanhvan.doan.nhatnghe.Nhap_congviecActivity
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:97:12-98:28
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:97:22-59
+activity#hocanhvan.doan.nhatnghe.Sua_congviecActivity
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:99:9-100:25
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:99:19-55
+activity#hocanhvan.doan.nhatnghe.Ghinho_congviecActivity
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:103:9-108:25
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:104:13-56
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:105:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:103:19-58
+activity#hocanhvan.doan.nhatnghe.vanpham
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:109:10-114:25
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:110:13-56
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:111:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:109:20-43
+activity#hocanhvan.doan.nhatnghe.infovanpham
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:115:10-120:25
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:118:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:116:13-56
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:117:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:115:20-47
+activity#hocanhvan.doan.nhatnghe.tudien
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:122:11-127:25
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:123:13-56
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:124:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:122:21-43
+activity#hocanhvan.doan.nhatnghe.infotracuu
+ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:129:12-134:25
+	android:screenOrientation
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:132:13-49
+	android:label
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:130:13-56
+	android:theme
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:131:13-71
+	android:name
+		ADDED from E:\android\hocanhvan1\app\src\main\AndroidManifest.xml:129:22-48

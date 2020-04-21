@@ -1,0 +1,198 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\android\\hocanhvan1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\android\\hocanhvan1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19,67,121,173",
+                        "endColumns": "46,52,50,59",
+                        "endOffsets": "61,115,167,228"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "340,387,440,491",
+                        "endColumns": "46,52,50,59",
+                        "endOffsets": "382,435,486,546"
+                    }
+                },
+                {
+                    "source": "E:\\android\\hocanhvan1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "551",
+                        "endColumns": "57",
+                        "endOffsets": "604"
+                    }
+                },
+                {
+                    "source": "E:\\android\\hocanhvan1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "110,64,19",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "150,104,58"
+                    },
+                    "to": {
+                        "startLines": "7,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "206,251,296",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "246,291,335"
+                    }
+                },
+                {
+                    "source": "E:\\android\\hocanhvan1\\app\\src\\main\\res\\values\\mucdo_quantrong_spinner.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "6",
+                        "endColumns": "19",
+                        "endOffsets": "209"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "19",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\thien\\Downloads\\Compressed\\TFLAT\\hocanhvan1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\thien\\Downloads\\Compressed\\TFLAT\\hocanhvan1\\app\\src\\main\\res\\values\\mucdo_quantrong_spinner.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "6",
+                        "endColumns": "19",
+                        "endOffsets": "209"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "19",
+                        "endOffsets": "201"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thien\\Downloads\\Compressed\\TFLAT\\hocanhvan1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "110,64,19",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "150,104,58"
+                    },
+                    "to": {
+                        "startLines": "7,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "206,251,296",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "246,291,335"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thien\\Downloads\\Compressed\\TFLAT\\hocanhvan1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "551",
+                        "endColumns": "57",
+                        "endOffsets": "604"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thien\\Downloads\\Compressed\\TFLAT\\hocanhvan1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19,67,121,173",
+                        "endColumns": "46,52,50,59",
+                        "endOffsets": "61,115,167,228"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "340,387,440,491",
+                        "endColumns": "46,52,50,59",
+                        "endOffsets": "382,435,486,546"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\android\\hocanhvan1\\app\\build\\intermediates\\res\\merged\\debug\\values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\android\\hocanhvan1\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,64,19",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "151,105,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,146",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "95,141,185"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\thien\\Downloads\\Compressed\\TFLAT\\hocanhvan1\\app\\build\\intermediates\\res\\merged\\debug\\values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\thien\\Downloads\\Compressed\\TFLAT\\hocanhvan1\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,64,19",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "151,105,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,146",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "95,141,185"
+                    }
+                }
+            ]
+        }
+    ]
+}
